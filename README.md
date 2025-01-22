@@ -1,2 +1,3 @@
-# a443-MLOps-ML-Pipeline
+# branch `learn`
+
 Ini adalah repositori untuk latihan pada kelas Machine Learning Operations (MLOps)
