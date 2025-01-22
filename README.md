@@ -1,12 +1,4 @@
-# a443-MLOps-ML-Pipeline
-Ini adalah repositori untuk latihan pada kelas Machine Learning Operations (MLOps)
+# learn branch
 
+this is branch for learning
 
-## Menbuat dan menjalankan docker image.
-
-```
-docker build -t sarchasm-detection-tf-serving .
-
-
-docker run -p 8080:8501 sarchasm-detection-tf-serving
-```
